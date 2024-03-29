@@ -38,4 +38,4 @@ class Vertex {
   }
 }
 
-export { Vertex as default };
+export { Vertex as default, boardWidth };
